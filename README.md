@@ -2,6 +2,20 @@
 
 ![Parsig](https://github.com/konichar/parsesig/blob/master/parsig.png)
 
+## Before ALL, you need to have a telegram bot which will forward the message from the first group to another group in which this bot is admin.
+So Follow this insctructions https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot
+
+## You will need to create a telegram app in order to get the api id and api hash
+1. Go to my.telegram.org , if not accessible than use any VPN
+2. Enter Telegram phone number in format +918457345497
+3. Enter the received code on @telegram
+4. Click on Create Application
+5. Enter any name and nickname.
+6. Select other and leave discription empty and proceed.
+7. You will get your APP ID & HASH
+
+## Create a .env from the .env.example
+And put the parameters you got in the previous steps
 
 ## A Telegram program that forwards Forex Signals from one Telegram group or channel to another
 
